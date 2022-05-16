@@ -163,6 +163,9 @@
           "layout_marginBottom": "16dp",
           "layout_gravity": "center",
           "color": "#aaef99"
+        }, {
+          "type": "include",
+          "layout": "EditTextExample"
         }
       ]
     }
