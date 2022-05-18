@@ -22,7 +22,7 @@ import retrofit2.Retrofit;
 
 public class DemoApplication extends Application {
 
-  private static final String BASE_URL = "http://192.168.1.6:8080/data/";
+  private static final String BASE_URL = "http://192.168.1.5:8080/data/";
 
   private Gson gson;
   private Retrofit retrofit;

@@ -166,6 +166,10 @@
         }, {
           "type": "include",
           "layout": "EditTextExample"
+        },
+        {
+          "type": "include",
+          "layout": "SpinnerExample"
         }
       ]
     }
